@@ -1,0 +1,97 @@
+body {
+	max-width: 900px;
+	margin: 10px auto 0 auto;
+	background: #c7c3bb;
+	font-family: verdena;
+	font-size: 20px;
+}
+
+
+.logo {
+	height: 200px;
+	width: 100%;
+}
+
+.model {
+	position: absolute;
+	top:20px;
+	left:720px;
+	color: white;
+	text-transform: uppercase;
+	background-size: cover;
+	height: 200px;
+	font-size: 40px;
+}
+
+.left {
+	float: left;
+	margin-right: 15px;
+}
+
+.right {
+	float: right;
+	margin-left: 15px;
+}
+
+{
+	background: #F1D977;
+	color: orange;
+	text-align: center;
+	height:50px;
+	padding: 20px;
+}
+
+#wrapper {
+	background: white;
+	margin: 15px auto;
+	width: 958px;
+	-webkit-box-shadow: 3px 3px 5px 6px #646464; 
+	-moz-box-shadow:    3px 3px 5px 6px #646464; 
+	box-shadow:         3px 3px 5px 6px #646464;
+}
+
+.doboz2 {
+	margin: 10px auto;
+	float: left;
+	width: 45%;
+	padding: 20px;
+	text-align: justify;
+	line-height: 150%;
+}
+
+.faszom {
+	background: white;
+	min-height: 1000px;
+}
+
+h2 {
+	background: #AAAA88;
+	border-radius: 2px;
+	color: white;
+	font-size: 20px;
+	padding: 5px;
+	margin: 10px 0px 10px 0px;
+}
+
+nav{
+	color: orange;
+	width: 100%;
+}
+
+a{
+	text-decoration: none;
+	border-right: 2px solid #FFFFFF;
+	background: #CC6600;
+	float: left;
+	padding: 5px 0px 5px 0px;
+	text-align: center;
+	color: #cfa336;
+}
+
+.copyright{
+	background: #d6b03c;
+	color: #f2ce16;
+	text-align: center;
+	height: 50px;
+	padding: 20px;
+}
